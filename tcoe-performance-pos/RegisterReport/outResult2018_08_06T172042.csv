@@ -1,0 +1,37 @@
+Host Register:S4821POS251
+Transaction Name,Count,Average Response Time,95th Percentile
+POS_SelectItemforReturn,9,1.248,1.438
+POS_ReceiptLookup,9,2.269,2.842
+POS_PrintReceipt,57,3.534,4.083
+POS_ReturnExchange,9,1.588,1.679
+POS_ReturnCompleted,9,1.673,1.71
+POS_ReasonforReturnChangedMind,3,3.942,4.517
+POS_TotalAmountCalc,57,1.48,1.749
+POS_AssociateEntry,57,2.881,3.228
+POS_ProcessRefund,9,3.266,3.828
+POS_Launch,7,81.857,82.618
+POS_ItemAmountCalc,57,1.502,1.702
+POS_ReasonforReturnDefective,3,7.394,7.658
+POS_PLCCPayment,12,12.294,14.953
+POS_DiscoverCardPayment,12,21.936,27.735
+POS_DualCardPayment,12,15.121,27.575
+POS_CashPayment,12,3.838,4.156
+POS_SelectModeofPayment,48,0.722,0.766
+POS_AddItem,48,3.269,3.808
+POS_FirstCouponEntry,24,0.854,0.875
+POS_ReasonforReturnReticket,3,5.247,5.946
+POS_SecondCouponEntry,12,0.87,0.937
+
+Status of the latest run:Run ID,Test Name,Status
+172721,POS-PerformanceTiming-SALE-MultipleItem-WithCoupon,Failed
+172742,POS-PerformanceTiming-SALE-3Item-Coupon-AssociateDiscount,Failed
+172772,POS-PerformanceTiming-SALE-3Item-WithMultipleCoupon-AssociateDiscount,Failed
+172730,POS-PerformanceTiming-SALE-SingleItem-NoCoupon,Passed
+172734,POS-PerformanceTiming-SALE-SingleItem-WithCoupon,Passed
+172751,POS-PerformanceTiming-SALE-3Item-WithMultipleCoupon,Passed
+172777,POS-PerformanceTiming-SystemicReturn-ChangedMind,Passed
+172750,POS-PerformanceTiming-SALE-3Item-NoCoupon-AssociateDiscount,Failed
+172793,POS-PerformanceTiming-SystemicReturn-Defective,Passed
+172693,POS-PerformanceTiming-SALE-MultipleItem-NoCoupon,Passed
+172787,POS-PerformanceTiming-SystemicReturn-ChangedMind-Reticket,Passed
+

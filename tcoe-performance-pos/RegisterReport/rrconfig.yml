@@ -1,0 +1,58 @@
+# Configuration for the POS results collating utility
+
+# ALM Url
+almurl: "http://alm.jcpenney.com/qcbin"
+
+# Definition of SLA for transactions
+transactions:
+   POS_Launch: 2
+   POS_Associate_Entry: 2
+   POS_AddItem: 2
+   POS_ItemAmountCalc: 2
+   POS_FirstCouponEntry: 2
+   POS_SecondCouponEntry: 2
+   POS_AssociateDiscount: 2
+   POS_TotalAmountCalc: 2
+   POS_SelectModeofPayment: 2
+   POS_CashPayment: 2
+   POS_DiscoverCardPayment: 2
+   POS_PLCCPayment: 2
+   POS_DualCardPayment: 2
+   POS_ReturnExchange: 2
+   POS_ReceiptLookup: 2
+   POS_SelectItemforReturn: 2
+   POS_ReturnDefective: 2
+   POS_ReturnReticket: 2
+   POS_ReturnChangedMind: 2
+   POS_ReturnCompleted: 2
+   POS_FirstTotal: 2
+   POS_TotalReturnableAmount: 2
+   POS_ProcessRefund: 2
+   POS_Print_Receipt: 2
+   POS_ReasonforReturn: 2
+   
+# Test cases executed in the test - Provide the test cases for which report have to be generated
+testcases:
+   - POS-PerformanceTiming-SystemicReturn-ChangedMind
+   - POS-PerformanceTiming-SALE-SingleItem-WithCoupon
+   - POS-PerformanceTiming-SALE-SingleItem-NoCoupon
+   - POS-PerformanceTiming-SALE-MultipleItem-WithCoupon
+   - POS-PerformanceTiming-SALE-3Item-Coupon-AssociateDiscount
+   - POS-PerformanceTiming-SALE-3Item-NoCoupon-AssociateDiscount
+   - POS-PerformanceTiming-SALE-3Item-WithMultipleCoupon
+   - POS-PerformanceTiming-SALE-3Item-WithMultipleCoupon-AssociateDiscount
+   - POS-PerformanceTiming-SALE-MultipleItem-NoCoupon
+   - POS-PerformanceTiming-SystemicReturn-ChangedMind-Reticket
+   - POS-PerformanceTiming-SystemicReturn-Defective
+   
+# Teams integration - Url for senting result to teams
+teamsurl: "https://outlook.office.com/webhook/05471477-dcb2-471c-a1cc-9822508d510b@9c0ac0b9-0217-468a-a432-2649cd6ed297/IncomingWebhook/8e28de98aeb741d39bdea19e5bb47046/cbefd033-23b3-4c05-949c-1b2018f10a52"
+
+# Output file location - Specify the location where the csv formatted output needs to be put in
+fileloc: "\\\\len-file\\atc-pc\\Shared Data Files\\Register\\Results"
+
+# Log file location
+logLoc: "\\\\len-file\\atc-pc\\Shared Data Files\\Register\\Logs"
+# Log level is either INFO/DEBUG
+logLevel: INFO
+   

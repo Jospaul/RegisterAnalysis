@@ -1,0 +1,144 @@
+2018-08-06 17:19:29,816 - rr.main - INFO - Start Report Generation.
+2018-08-06 17:19:29,818 - rr.posresult - INFO - Start ALM Connection.
+2018-08-06 17:19:29,857 - rr.sf.almoperation - INFO - Successfully logged in to ALM.
+2018-08-06 17:19:29,857 - rr.posresult - INFO - Fetching the run id list based on the test case names in configuration.
+2018-08-06 17:19:29,891 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,911 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,914 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,922 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,932 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,936 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,939 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,945 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,952 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,965 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,968 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,973 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,976 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,979 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,981 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,983 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,986 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,988 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,991 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:29,994 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,016 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,042 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,084 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,112 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,118 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,122 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,125 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,130 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,140 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,144 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,154 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,182 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,186 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,204 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172734
+2018-08-06 17:19:30,205 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172751
+2018-08-06 17:19:30,208 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172777
+2018-08-06 17:19:30,209 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172742
+2018-08-06 17:19:30,210 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172793
+2018-08-06 17:19:30,211 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172730
+2018-08-06 17:19:30,215 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172750
+2018-08-06 17:19:30,219 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172772
+2018-08-06 17:19:30,221 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172787
+2018-08-06 17:19:30,237 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172693
+2018-08-06 17:19:30,241 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172721
+2018-08-06 17:19:30,332 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,352 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,383 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,406 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,461 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,482 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,487 - rr.sf.almoperation - INFO - Contents of the html report successfully read.
+2018-08-06 17:19:30,540 - rr.sf.almoperation - INFO - Contents of the html report successfully read.
+2018-08-06 17:19:30,647 - rr.sf.almoperation - INFO - Contents of the html report successfully read.
+2018-08-06 17:19:30,716 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,817 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:30,884 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:31,114 - rr.sf.almoperation - INFO - Contents of the html report successfully read.
+2018-08-06 17:19:31,142 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:31,651 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:31,711 - rr.sf.almoperation - INFO - Contents of the html report successfully read.
+2018-08-06 17:19:31,815 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:32,137 - rr.sf.almoperation - INFO - Contents of the html report successfully read.
+2018-08-06 17:19:32,186 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:32,321 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:19:32,780 - rr.sf.almoperation - INFO - Contents of the html report successfully read.
+2018-08-06 17:19:35,624 - rr.posresult - INFO - Successfully processed the data received.
+2018-08-06 17:19:35,624 - rr.posresult - INFO - Sent the results to teams channel.
+2018-08-06 17:19:38,331 - rr.sf.generatehtml - INFO - Successfully posted results to teams.
+2018-08-06 17:19:39,886 - rr.sf.generatehtml - INFO - Successfully posted status to teams.
+2018-08-06 17:20:36,267 - rr.main - INFO - Start Report Generation.
+2018-08-06 17:20:36,267 - rr.posresult - INFO - Start ALM Connection.
+2018-08-06 17:20:36,359 - rr.sf.almoperation - INFO - Successfully logged in to ALM.
+2018-08-06 17:20:36,359 - rr.posresult - INFO - Fetching the run id list based on the test case names in configuration.
+2018-08-06 17:20:36,409 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,424 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,429 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,432 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,450 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,460 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,463 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,469 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,479 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,481 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,484 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,486 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,489 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,491 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,498 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,511 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,523 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,526 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,528 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,541 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,550 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,558 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,569 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,577 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,581 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,589 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,611 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,637 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,641 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,654 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,660 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,665 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,677 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172721
+2018-08-06 17:20:36,685 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:36,687 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172742
+2018-08-06 17:20:36,692 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172772
+2018-08-06 17:20:36,694 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172730
+2018-08-06 17:20:36,696 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172734
+2018-08-06 17:20:36,698 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172751
+2018-08-06 17:20:36,713 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172777
+2018-08-06 17:20:36,720 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172750
+2018-08-06 17:20:36,723 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172793
+2018-08-06 17:20:36,725 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172693
+2018-08-06 17:20:36,740 - rr.sf.almoperation - INFO - Latest test run is fetched and the run Id is 172787
+2018-08-06 17:20:36,999 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:37,020 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:37,075 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:37,100 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:37,141 - rr.sf.almoperation - INFO - Contents of the html report successfully read.
+2018-08-06 17:20:37,152 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:37,196 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:37,247 - rr.sf.almoperation - INFO - Contents of the html report successfully read.
+2018-08-06 17:20:37,270 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:37,352 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:37,422 - rr.sf.almoperation - INFO - Contents of the html report successfully read.
+2018-08-06 17:20:37,646 - rr.sf.almoperation - INFO - Contents of the html report successfully read.
+2018-08-06 17:20:37,773 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:37,856 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:38,100 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:38,176 - rr.sf.almoperation - INFO - Contents of the html report successfully read.
+2018-08-06 17:20:38,207 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:38,581 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:38,634 - rr.sf.almoperation - INFO - Contents of the html report successfully read.
+2018-08-06 17:20:38,841 - rr.sf.almoperation - INFO - ALM Session successfully verified.
+2018-08-06 17:20:39,424 - rr.sf.almoperation - INFO - Contents of the html report successfully read.
+2018-08-06 17:20:42,010 - rr.posresult - INFO - Successfully processed the data received.
+2018-08-06 17:20:42,011 - rr.posresult - INFO - Sent the results to the output file.
