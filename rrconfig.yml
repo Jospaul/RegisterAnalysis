@@ -48,6 +48,9 @@ testcases:
 # Teams integration - Url for senting result to teams
 teamsurl: "https://outlook.office.com/webhook/05471477-dcb2-471c-a1cc-9822508d510b@9c0ac0b9-0217-468a-a432-2649cd6ed297/IncomingWebhook/8e28de98aeb741d39bdea19e5bb47046/cbefd033-23b3-4c05-949c-1b2018f10a52"
 
+# Teams Results to be sent - short/long
+teamsResult: short
+
 # Output file location - Specify the location where the csv formatted output needs to be put in
 fileloc: "\\\\len-file\\atc-pc\\Shared Data Files\\Register\\Results"
 
