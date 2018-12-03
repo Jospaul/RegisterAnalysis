@@ -3,7 +3,7 @@ REM Author: Jospaul Mahajan Prakash
 REM Company: Infosys Limited
 
 set ALMUSERNAME=jprakash
-set ALMPASSWORD=Infosys}123
+set ALMPASSWORD=Infosys_123
 set HOST=S4800POS213
 set OUTPUTTYPE=tf
 set ITERATION=1
