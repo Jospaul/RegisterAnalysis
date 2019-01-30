@@ -1,0 +1,6 @@
+pyyaml<4
+numpy
+requests
+bs4
+json
+datetime
